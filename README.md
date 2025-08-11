@@ -12,7 +12,9 @@ Professional Achievements: Verified certificates from leading tech companies
 
 Contact Form: Functional neon-style form with animated elements
 
+
 🔧 Technical Highlights
+
 
 Frontend: Responsive design with CSS Grid/Flexbox
 
@@ -22,7 +24,9 @@ Mobile-First: Fully responsive navigation with hamburger menu
 
 Form Handling: Integrated with FormSubmit for email functionality
 
+
 🌟 Featured Projects
+
 
 AI Meeting Assistant - Automated meeting analysis and summarization
 
@@ -33,6 +37,7 @@ Data AI Chatbot - Specialized conversational interface
 Interactive Landing Page - Modern responsive design showcase
 
 🛠️ Technologies Used
+
 HTML5 CSS3 JavaScript NLP Prompt Engineering Generative AI Responsive Design
 
 ## How to Run
